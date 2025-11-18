@@ -1,15 +1,8 @@
 {
-    "frontMatter.framework.id": "astro",
-    "frontMatter.preview.host": "http://localhost:4321",
     "frontMatter.content.pageFolders": [
         {
             "title": "content",
             "path": "[[workspace]]/bts/src/content"
         }
-    ],
-    "frontMatter.git.enabled": true,
-    "frontMatter.content.publicFolder": {
-        "path": "src/assets",
-        "relative": true
-    }
+    ]
 }
